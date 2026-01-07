@@ -1,0 +1,11 @@
+
+> nest-alipay@0.0.1 build D:\Projects\cnb\monorepo\packages\nest\alipay
+> tsc -b -v
+
+21:28:06 - Projects in this build: 
+    * tsconfig.json
+
+21:28:06 - Project 'tsconfig.json' is out of date because output 'dist/index.js' is older than input 'src/lib/interface.ts'
+
+21:28:06 - Building project 'D:/Projects/cnb/monorepo/packages/nest/alipay/tsconfig.json'...
+
